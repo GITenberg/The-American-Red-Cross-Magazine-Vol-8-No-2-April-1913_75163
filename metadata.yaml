@@ -1,0 +1,34 @@
+_repo: The-American-Red-Cross-Magazine-Vol-8-No-2-April-1913_75163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American National Red Cross
+    aliases:
+    - Cross, American National Red
+    - Cross, The American National Red
+    gutenberg_agent_id: '35748'
+    url: http://www.gutenberg.org/2009/agents/35748
+    wikipedia: https://en.wikipedia.org/wiki/American_Red_Cross
+description: ''
+gutenberg_issued: '2025-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75163'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.602018&view=1up&seq=701
+pgterms:marc905: 20200516061559theamerica
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aWashington, D.C. :$bThe American Red Cross, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American National Red Cross -- Periodicals'
+- !lcsh 'Red Cross and Red Crescent -- Periodicals'
+- !lcc 'HV'
+- GITenberg
+title: The American Red Cross Magazine (Vol. 8, No. 2, April 1913)
+url: http://www.gutenberg.org/ebooks/75163
